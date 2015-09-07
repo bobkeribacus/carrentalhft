@@ -1,0 +1,1 @@
+This project was created by students of the HFT Stuttgart in context of the databases 2 lecture. The task is to create a small project using a database. This project uses hibernate as well.
